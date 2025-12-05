@@ -1,8 +1,3 @@
-Here is a **clean, professional, and beginner-friendly README.md** for your AQI Calculator project.
-You can copy-paste directly into GitHub.
-
----
-
 # 🌫️ Air Quality Index (AQI) Calculator
 
 A simple Python program that calculates the **Air Quality Index (AQI)** based on **PM2.5** and **PM10** pollutant concentrations (24-hour average).
